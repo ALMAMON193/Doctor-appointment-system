@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:57 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:57 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -37,10 +37,10 @@
 			
 				<!-- Logo -->
                 <div class="header-left">
-                    <a href="index.php" class="logo">
+                    <a href="index" class="logo">
 						<img src="assets/img/logo.png" alt="Logo">
 					</a>
-					<a href="index.php" class="logo logo-small">
+					<a href="index" class="logo logo-small">
 						<img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
 					</a>
                 </div>
@@ -111,7 +111,7 @@
 													<img class="avatar-img rounded-circle" alt="User Image" src="assets/img/patients/patient2.jpg">
 												</span>
 												<div class="media-body">
-												<p class="noti-details"><span class="noti-title">Travis Trimble</span> sent a amount of $210 for his <span class="noti-title">appointment</span></p>
+												<p class="noti-details"><span class="noti-title">Travis Trimble</span> sent a amount of 210 for his <span class="noti-title">appointment</span></p>
 												<p class="noti-time"><span class="notification-time">8 mins ago</span></p>
 												</div>
 											</div>
@@ -154,9 +154,9 @@
 									<p class="text-muted mb-0">Administrator</p>
 								</div>
 							</div>
-							<a class="dropdown-item" href="profile.php">My Profile</a>
-							<a class="dropdown-item" href="settings.php">Settings</a>
-							<a class="dropdown-item" href="login.php">Logout</a>
+							<a class="dropdown-item" href="profile">My Profile</a>
+							<a class="dropdown-item" href="settings">Settings</a>
+							<a class="dropdown-item" href="login">Logout</a>
 						</div>
 					</li>
 					<!-- /User Menu -->
@@ -176,82 +176,82 @@
 								<span>Main</span>
 							</li>
 							<li> 
-								<a href="index.php"><i class="fe fe-home"></i> <span>Dashboard</span></a>
+								<a href="index"><i class="fe fe-home"></i> <span>Dashboard</span></a>
 							</li>
 							<li> 
-								<a href="appointment-list.php"><i class="fe fe-layout"></i> <span>Appointments</span></a>
+								<a href="appointment-list"><i class="fe fe-layout"></i> <span>Appointments</span></a>
 							</li>
 							<li> 
-								<a href="specialities.php"><i class="fe fe-users"></i> <span>Specialities</span></a>
+								<a href="specialities"><i class="fe fe-users"></i> <span>Specialities</span></a>
 							</li>
 							<li> 
-								<a href="doctor-list.php"><i class="fe fe-user-plus"></i> <span>Doctors</span></a>
+								<a href="doctor-list"><i class="fe fe-user-plus"></i> <span>Doctors</span></a>
 							</li>
 							<li> 
-								<a href="patient-list.php"><i class="fe fe-user"></i> <span>Patients</span></a>
+								<a href="patient-list"><i class="fe fe-user"></i> <span>Patients</span></a>
 							</li>
 							<li> 
-								<a href="reviews.php"><i class="fe fe-star-o"></i> <span>Reviews</span></a>
+								<a href="reviews"><i class="fe fe-star-o"></i> <span>Reviews</span></a>
 							</li>
 							<li> 
-								<a href="transactions-list.php"><i class="fe fe-activity"></i> <span>Transactions</span></a>
+								<a href="transactions-list"><i class="fe fe-activity"></i> <span>Transactions</span></a>
 							</li>
 							<li> 
-								<a href="settings.php"><i class="fe fe-vector"></i> <span>Settings</span></a>
+								<a href="settings"><i class="fe fe-vector"></i> <span>Settings</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-document"></i> <span> Reports</span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a class="active" href="invoice-report.php">Invoice Reports</a></li>
+									<li><a class="active" href="invoice-report">Invoice Reports</a></li>
 								</ul>
 							</li>
 							<li class="menu-title"> 
 								<span>Pages</span>
 							</li>
 							<li> 
-								<a href="profile.php"><i class="fe fe-user-plus"></i> <span>Profile</span></a>
+								<a href="profile"><i class="fe fe-user-plus"></i> <span>Profile</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-document"></i> <span> Authentication </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="login.php"> Login </a></li>
-									<li><a href="register.php"> Register </a></li>
-									<li><a href="forgot-password.php"> Forgot Password </a></li>
-									<li><a href="lock-screen.php"> Lock Screen </a></li>
+									<li><a href="login"> Login </a></li>
+									<li><a href="register"> Register </a></li>
+									<li><a href="forgot-password"> Forgot Password </a></li>
+									<li><a href="lock-screen"> Lock Screen </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-warning"></i> <span> Error Pages </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="error-404.php">404 Error </a></li>
-									<li><a href="error-500.php">500 Error </a></li>
+									<li><a href="error-404">404 Error </a></li>
+									<li><a href="error-500">500 Error </a></li>
 								</ul>
 							</li>
 							<li> 
-								<a href="blank-page.php"><i class="fe fe-file"></i> <span>Blank Page</span></a>
+								<a href="blank-page"><i class="fe fe-file"></i> <span>Blank Page</span></a>
 							</li>
 							<li class="menu-title"> 
 								<span>UI Interface</span>
 							</li>
 							<li> 
-								<a href="components.php"><i class="fe fe-vector"></i> <span>Components</span></a>
+								<a href="components"><i class="fe fe-vector"></i> <span>Components</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-layout"></i> <span> Forms </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="form-basic-inputs.php">Basic Inputs </a></li>
-									<li><a href="form-input-groups.php">Input Groups </a></li>
-									<li><a href="form-horizontal.php">Horizontal Form </a></li>
-									<li><a href="form-vertical.php"> Vertical Form </a></li>
-									<li><a href="form-mask.php"> Form Mask </a></li>
-									<li><a href="form-validation.php"> Form Validation </a></li>
+									<li><a href="form-basic-inputs">Basic Inputs </a></li>
+									<li><a href="form-input-groups">Input Groups </a></li>
+									<li><a href="form-horizontal">Horizontal Form </a></li>
+									<li><a href="form-vertical"> Vertical Form </a></li>
+									<li><a href="form-mask"> Form Mask </a></li>
+									<li><a href="form-validation"> Form Validation </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-table"></i> <span> Tables </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="tables-basic.php">Basic Tables </a></li>
-									<li><a href="data-tables.php">Data Table </a></li>
+									<li><a href="tables-basic">Basic Tables </a></li>
+									<li><a href="data-tables">Data Table </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
@@ -327,7 +327,7 @@
 							<div class="col-sm-6 col-lg-5 col-xl-4 m-b-20">
 								<h6>Payment Details</h6>
 								<ul class="list-unstyled invoice-payment-details mb-0">
-									<li><h5>Total Due: <span class="text-right">$200</span></h5></li>
+									<li><h5>Total Due: <span class="text-right">200</span></h5></li>
 									<li>Bank name: <span>Profit Bank Europe</span></li>
 									<li>Country: <span>United Kingdom</span></li>
 									<li>City: <span>London E1 8BF</span></li>
@@ -355,33 +355,33 @@
 										<td>1</td>
 										<td>medicine1</td>
 										<td class="d-none d-sm-table-cell">Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
-										<td>$10</td>
+										<td>10</td>
 										<td>2</td>
-										<td>$10</td>
+										<td>10</td>
 									</tr>
 									<tr>
 										<td>2</td>
 										<td>medicine2</td>
 										<td class="d-none d-sm-table-cell">Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
-										<td>$10</td>
+										<td>10</td>
 										<td>1</td>
-										<td>$10</td>
+										<td>10</td>
 									</tr>
 									<tr>
 										<td>3</td>
 										<td>medicine3</td>
 										<td class="d-none d-sm-table-cell">Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
-										<td>$90</td>
+										<td>90</td>
 										<td>1</td>
-										<td>$90</td>
+										<td>90</td>
 									</tr>
 									<tr>
 										<td>4</td>
 										<td>medicine4</td>
 										<td class="d-none d-sm-table-cell">Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
-										<td>$70</td>
+										<td>70</td>
 										<td>1</td>
-										<td>$70</td>
+										<td>70</td>
 									</tr>
 									<tr>
 										<td>5</td>
@@ -389,7 +389,7 @@
 										<td class="d-none d-sm-table-cell">Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
 										<td>70</td>
 										<td>1</td>
-										<td>$70</td>
+										<td>70</td>
 									</tr>
 								</tbody>
 							</table>
@@ -407,15 +407,15 @@
 												<tbody>
 													<tr>
 														<th>Subtotal:</th>
-														<td class="text-right">$250</td>
+														<td class="text-right">250</td>
 													</tr>
 													<tr>
 														<th>Tax: <span class="text-regular">(25%)</span></th>
-														<td class="text-right">$50</td>
+														<td class="text-right">50</td>
 													</tr>
 													<tr>
 														<th>Total:</th>
-														<td class="text-right text-primary"><h5>$200</h5></td>
+														<td class="text-right text-primary"><h5>200</h5></td>
 													</tr>
 												</tbody>
 											</table>
@@ -453,5 +453,5 @@
 		<script src="assets/js/script.js"></script>
     </body>
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:57 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:57 GMT -->
 </html>

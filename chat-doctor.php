@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html lang="en">
 	
-<!-- doccure/chat-doctor.php  30 Nov 2019 04:12:13 GMT -->
+<!-- doccure/chat-doctor  30 Nov 2019 04:12:13 GMT -->
 <head>
 		<meta charset="utf-8">
 		<title>Doccure</title>
@@ -43,13 +43,13 @@
 								<span></span>
 							</span>
 						</a>
-						<a href="index-2.php" class="navbar-brand logo">
+						<a href="index" class="navbar-brand logo">
 							<img src="assets/img/logo.png" class="img-fluid" alt="Logo">
 						</a>
 					</div>
 					<div class="main-menu-wrapper">
 						<div class="menu-header">
-							<a href="index-2.php" class="menu-logo">
+							<a href="index" class="menu-logo">
 								<img src="assets/img/logo.png" class="img-fluid" alt="Logo">
 							</a>
 							<a id="menu_close" class="menu-close" href="javascript:void(0);">
@@ -58,64 +58,64 @@
 						</div>
 						<ul class="main-nav">
 							<li>
-								<a href="index-2.php">Home</a>
+								<a href="index">Home</a>
 							</li>
 							<li class="has-submenu active">
 								<a href="#">Doctors <i class="fas fa-chevron-down"></i></a>
 								<ul class="submenu">
-									<li><a href="doctor-dashboard.php">Doctor Dashboard</a></li>
-									<li><a href="appointments.php">Appointments</a></li>
-									<li><a href="schedule-timings.php">Schedule Timing</a></li>
-									<li><a href="my-patients.php">Patients List</a></li>
-									<li><a href="patient-profile.php">Patients Profile</a></li>
-									<li class="active"><a href="chat-doctor.php">Chat</a></li>
-									<li><a href="invoices.php">Invoices</a></li>
-									<li><a href="doctor-profile-settings.php">Profile Settings</a></li>
-									<li><a href="reviews.php">Reviews</a></li>
-									<li><a href="doctor-register.php">Doctor Register</a></li>
+									<li><a href="doctor-dashboard">Doctor Dashboard</a></li>
+									<li><a href="appointments">Appointments</a></li>
+									<li><a href="schedule-timings">Schedule Timing</a></li>
+									<li><a href="my-patients">Patients List</a></li>
+									<li><a href="patient-profile">Patients Profile</a></li>
+									<li class="active"><a href="chat-doctor">Chat</a></li>
+									<li><a href="invoices">Invoices</a></li>
+									<li><a href="doctor-profile-settings">Profile Settings</a></li>
+									<li><a href="reviews">Reviews</a></li>
+									<li><a href="doctor-register">Doctor Register</a></li>
 								</ul>
 							</li>	
 							<li class="has-submenu">
 								<a href="#">Patients <i class="fas fa-chevron-down"></i></a>
 								<ul class="submenu">
-									<li><a href="search.php">Search Doctor</a></li>
-									<li><a href="doctor-profile.php">Doctor Profile</a></li>
-									<li><a href="booking.php">Booking</a></li>
-									<li><a href="checkout.php">Checkout</a></li>
-									<li><a href="booking-success.php">Booking Success</a></li>
-									<li><a href="patient-dashboard.php">Patient Dashboard</a></li>
-									<li><a href="favourites.php">Favourites</a></li>
-									<li><a href="chat.php">Chat</a></li>
-									<li><a href="profile-settings.php">Profile Settings</a></li>
-									<li><a href="change-password.php">Change Password</a></li>
+									<li><a href="search">Search Doctor</a></li>
+									<li><a href="doctor-profile">Doctor Profile</a></li>
+									<li><a href="booking">Booking</a></li>
+									<li><a href="checkout">Checkout</a></li>
+									<li><a href="booking-success">Booking Success</a></li>
+									<li><a href="patient-dashboard">Patient Dashboard</a></li>
+									<li><a href="favourites">Favourites</a></li>
+									<li><a href="chat">Chat</a></li>
+									<li><a href="profile-settings">Profile Settings</a></li>
+									<li><a href="change-password">Change Password</a></li>
 								</ul>
 							</li>	
 							<li class="has-submenu">
 								<a href="#">Pages <i class="fas fa-chevron-down"></i></a>
 								<ul class="submenu">
-									<li><a href="voice-call.php">Voice Call</a></li>
-									<li><a href="video-call.php">Video Call</a></li>
-									<li><a href="search.php">Search Doctors</a></li>
-									<li><a href="calendar.php">Calendar</a></li>
-									<li><a href="components.php">Components</a></li>
+									<li><a href="voice-call">Voice Call</a></li>
+									<li><a href="video-call">Video Call</a></li>
+									<li><a href="search">Search Doctors</a></li>
+									<li><a href="calendar">Calendar</a></li>
+									<li><a href="components">Components</a></li>
 									<li class="has-submenu">
-										<a href="invoices.php">Invoices</a>
+										<a href="invoices">Invoices</a>
 										<ul class="submenu">
-											<li><a href="invoices.php">Invoices</a></li>
-											<li><a href="invoice-view.php">Invoice View</a></li>
+											<li><a href="invoices">Invoices</a></li>
+											<li><a href="invoice-view">Invoice View</a></li>
 										</ul>
 									</li>
-									<li><a href="blank-page.php">Starter Page</a></li>
-									<li><a href="login.php">Login</a></li>
-									<li><a href="register.php">Register</a></li>
-									<li><a href="forgot-password.php">Forgot Password</a></li>
+									<li><a href="blank-page">Starter Page</a></li>
+									<li><a href="login">Login</a></li>
+									<li><a href="register">Register</a></li>
+									<li><a href="forgot-password">Forgot Password</a></li>
 								</ul>
 							</li>
 							<li>
-								<a href="admin/index.php" target="_blank">Admin</a>
+								<a href="admin/index" target="_blank">Admin</a>
 							</li>
 							<li class="login-link">
-								<a href="login.php">Login / Signup</a>
+								<a href="login">Login / Signup</a>
 							</li>
 						</ul>
 					</div>		 
@@ -126,7 +126,7 @@
 							</div>
 							<div class="header-contact-detail">
 								<p class="contact-header">Contact</p>
-								<p class="contact-info-header"> +1 315 369 5943</p>
+								<p class="contact-info-header"> +880 1768085606</p>
 							</div>
 						</li>
 						
@@ -147,9 +147,9 @@
 										<p class="text-muted mb-0">Doctor</p>
 									</div>
 								</div>
-								<a class="dropdown-item" href="doctor-dashboard.php">Dashboard</a>
-								<a class="dropdown-item" href="doctor-profile-settings.php">Profile Settings</a>
-								<a class="dropdown-item" href="login.php">Logout</a>
+								<a class="dropdown-item" href="doctor-dashboard">Dashboard</a>
+								<a class="dropdown-item" href="doctor-profile-settings">Profile Settings</a>
+								<a class="dropdown-item" href="login">Logout</a>
 							</div>
 						</li>
 						<!-- /User Menu -->
@@ -666,11 +666,11 @@
 								<div class="footer-widget footer-menu">
 									<h2 class="footer-title">For Patients</h2>
 									<ul>
-										<li><a href="search.php"><i class="fas fa-angle-double-right"></i> Search for Doctors</a></li>
-										<li><a href="login.php"><i class="fas fa-angle-double-right"></i> Login</a></li>
-										<li><a href="register.php"><i class="fas fa-angle-double-right"></i> Register</a></li>
-										<li><a href="booking.php"><i class="fas fa-angle-double-right"></i> Booking</a></li>
-										<li><a href="patient-dashboard.php"><i class="fas fa-angle-double-right"></i> Patient Dashboard</a></li>
+										<li><a href="search"><i class="fas fa-angle-double-right"></i> Search for Doctors</a></li>
+										<li><a href="login"><i class="fas fa-angle-double-right"></i> Login</a></li>
+										<li><a href="register"><i class="fas fa-angle-double-right"></i> Register</a></li>
+										<li><a href="booking"><i class="fas fa-angle-double-right"></i> Booking</a></li>
+										<li><a href="patient-dashboard"><i class="fas fa-angle-double-right"></i> Patient Dashboard</a></li>
 									</ul>
 								</div>
 								<!-- /Footer Widget -->
@@ -683,11 +683,11 @@
 								<div class="footer-widget footer-menu">
 									<h2 class="footer-title">For Doctors</h2>
 									<ul>
-										<li><a href="appointments.php"><i class="fas fa-angle-double-right"></i> Appointments</a></li>
-										<li><a href="chat.php"><i class="fas fa-angle-double-right"></i> Chat</a></li>
-										<li><a href="login.php"><i class="fas fa-angle-double-right"></i> Login</a></li>
-										<li><a href="doctor-register.php"><i class="fas fa-angle-double-right"></i> Register</a></li>
-										<li><a href="doctor-dashboard.php"><i class="fas fa-angle-double-right"></i> Doctor Dashboard</a></li>
+										<li><a href="appointments"><i class="fas fa-angle-double-right"></i> Appointments</a></li>
+										<li><a href="chat"><i class="fas fa-angle-double-right"></i> Chat</a></li>
+										<li><a href="login"><i class="fas fa-angle-double-right"></i> Login</a></li>
+										<li><a href="doctor-register"><i class="fas fa-angle-double-right"></i> Register</a></li>
+										<li><a href="doctor-dashboard"><i class="fas fa-angle-double-right"></i> Doctor Dashboard</a></li>
 									</ul>
 								</div>
 								<!-- /Footer Widget -->
@@ -702,11 +702,11 @@
 									<div class="footer-contact-info">
 										<div class="footer-address">
 											<span><i class="fas fa-map-marker-alt"></i></span>
-											<p> 3556  Beech Street, San Francisco,<br> California, CA 94108 </p>
+											<p> 220/D Begum Rokeya Sarani, Dhaka-1207.<br> Mirpur ,Dhaka Bangladesh</p>
 										</div>
 										<p>
 											<i class="fas fa-phone-alt"></i>
-											+1 315 369 5943
+											+880 1768085606
 										</p>
 										<p class="mb-0">
 											<i class="fas fa-envelope"></i>
@@ -740,8 +740,8 @@
 									<!-- Copyright Menu -->
 									<div class="copyright-menu">
 										<ul class="policy-menu">
-											<li><a href="term-condition.php">Terms and Conditions</a></li>
-											<li><a href="privacy-policy.php">Policy</a></li>
+											<li><a href="term-condition">Terms and Conditions</a></li>
+											<li><a href="privacy-policy">Policy</a></li>
 										</ul>
 									</div>
 									<!-- /Copyright Menu -->
@@ -778,7 +778,7 @@
 									</div>							
 									<div class="call-items">
 										<a href="javascript:void(0);" class="btn call-item call-end" data-dismiss="modal" aria-label="Close"><i class="material-icons">call_end</i></a>
-										<a href="voice-call.php" class="btn call-item call-start"><i class="material-icons">call</i></a>
+										<a href="voice-call" class="btn call-item call-start"><i class="material-icons">call</i></a>
 									</div>
 								</div>
 							</div>
@@ -808,7 +808,7 @@
 									</div>							
 									<div class="call-items">
 										<a href="javascript:void(0);" class="btn call-item call-end" data-dismiss="modal" aria-label="Close"><i class="material-icons">call_end</i></a>
-										<a href="video-call.php" class="btn call-item call-start"><i class="material-icons">videocam</i></a>
+										<a href="video-call" class="btn call-item call-start"><i class="material-icons">videocam</i></a>
 									</div>
 								</div>
 							</div>
@@ -833,5 +833,5 @@
 		
 	</body>
 
-<!-- doccure/chat-doctor.php  30 Nov 2019 04:12:14 GMT -->
+<!-- doccure/chat-doctor  30 Nov 2019 04:12:14 GMT -->
 </html>

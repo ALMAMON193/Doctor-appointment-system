@@ -43,13 +43,13 @@
 								<span></span>
 							</span>
 						</a>
-						<a href="index-2.php" class="navbar-brand logo">
+						<a href="index.php" class="navbar-brand logo">
 							<img src="assets/img/logo.png" class="img-fluid" alt="Logo">
 						</a>
 					</div>
 					<div class="main-menu-wrapper">
 						<div class="menu-header">
-							<a href="index-2.php" class="menu-logo">
+							<a href="index.php" class="menu-logo">
 								<img src="assets/img/logo.png" class="img-fluid" alt="Logo">
 							</a>
 							<a id="menu_close" class="menu-close" href="javascript:void(0);">
@@ -58,7 +58,7 @@
 						</div>
 						<ul class="main-nav">
 							<li>
-								<a href="index-2.php">Home</a>
+								<a href="index.php">Home</a>
 							</li>
 							<li class="has-submenu">
 								<a href="#">Doctors <i class="fas fa-chevron-down"></i></a>
@@ -126,7 +126,7 @@
 							</div>
 							<div class="header-contact-detail">
 								<p class="contact-header">Contact</p>
-								<p class="contact-info-header"> +1 315 369 5943</p>
+								<p class="contact-info-header"> +880 1768085606</p>
 							</div>
 						</li>
 						
@@ -166,7 +166,7 @@
 						<div class="col-md-12 col-12">
 							<nav aria-label="breadcrumb" class="page-breadcrumb">
 								<ol class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index-2.php">Home</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 									<li class="breadcrumb-item active" aria-current="page">Social Media</li>
 								</ol>
 							</nav>
@@ -265,7 +265,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="index-2.php">
+												<a href="index.php">
 													<i class="fas fa-sign-out-alt"></i>
 													<span>Logout</span>
 												</a>
@@ -431,11 +431,11 @@
 									<div class="footer-contact-info">
 										<div class="footer-address">
 											<span><i class="fas fa-map-marker-alt"></i></span>
-											<p> 3556  Beech Street, San Francisco,<br> California, CA 94108 </p>
+											<p> 220/D Begum Rokeya Sarani, Dhaka-1207.<br> Mirpur ,Dhaka Bangladesh</p>
 										</div>
 										<p>
 											<i class="fas fa-phone-alt"></i>
-											+1 315 369 5943
+											+880 1768085606
 										</p>
 										<p class="mb-0">
 											<i class="fas fa-envelope"></i>

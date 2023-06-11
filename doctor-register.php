@@ -1,47 +1,44 @@
 <?php
 session_start();
-$conn = new mysqli('localhost', 'root', '', 'DAS');
+$conn = new mysqli('localhost', 'root', '', 'HMS');
 
 if (isset($_POST['submit'])) {
-	$username 		= $_POST['username'];
-	$user_email 			= $_POST['user_email'];
-	$phone 			= $_POST['phone'];
-	$user_password 		= $_POST['user_password'];
+	$users_first_name 		= $_POST['users_first_name'];
+	$users_last_name 		= $_POST['users_last_name'];
+	$users_email 			= $_POST['users_email'];
+	$users_password 		= $_POST['users_password'];
 	$passwordagain  = $_POST['passwordagain'];
-	$md5password 	= md5($user_password);
+	$md5password 	= md5($users_password);
 
 	$emptymsg1 = $emptymsg2 = $emptymsg3 = $emptymsg4 = $emptymsg5 = $pasmatchmsg = '';
 
 
-	if (empty($username)) {
-		$emptymsg1 = 'Write username';
+	if (empty($users_first_name)) {
+		$emptymsg1 = 'Write Firstname';
 	}
-	
-	if (empty($user_email)) {
-		$emptymsg2 = 'Write email';
+	if (empty($users_last_name)) {
+		$emptymsg2 = 'Write Lastname';
 	}
-	
-	if (empty($phone)) {
-		$emptymsg3 = 'Write phone';
+	if (empty($users_email)) {
+		$emptymsg3 = 'Write email';
 	}
-	if (empty($user_password)) {
+	if (empty($users_password)) {
 		$emptymsg4 = 'Write password';
 	}
 	if (empty($passwordagain)) {
 		$emptymsg5 = 'Write password Again';
 	}
 
-	if (!empty($username) && !empty($user_email)&& !empty($phone) && !empty($user_password) && !empty($passwordagain)) {
-		if ($user_password !== $passwordagain) {
-			
-			echo '<script>alert("Password does not match!")</script>';
+	if (!empty($users_first_name) && !empty($users_last_name) && !empty($users_email) && !empty($users_password) && !empty($passwordagain)) {
+		if ($users_password !== $passwordagain) {
+			$pasmatchmsg = 'Password does not match!';
 		} else {
 			$pasmatchmsg = '';
-			$sql = "INSERT INTO doctors(username,phone,user_email, user_password) 
-						VALUES('$username','$phone', '$user_email', '$md5password')";
+			$sql = "INSERT INTO doctors(users_first_name, users_last_name, users_email, users_password) 
+						VALUES('$users_first_name', '$users_last_name', '$users_email', '$md5password')";
 
 			if ($conn->query($sql) == TRUE) {
-				header('location:login.php');
+				header('location:http://heltcare.org/doctor-login');
 				$_SESSION['signupmsg'] = 'Sign Up Complete. Please Log in now.';
 			} else {
 				echo 'data not inserted';
@@ -53,7 +50,6 @@ if (isset($_POST['submit'])) {
 }
 
 ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -117,7 +113,7 @@ if (isset($_POST['submit'])) {
 					</div>
 					<ul class="main-nav">
 						<li>
-							<a href="index-2.html">Home</a>
+							<a href="http://heltcare.org/index-2.html">Home</a>
 						</li>
 						<li class="has-submenu active">
 							<a href="#">Doctors <i class="fas fa-chevron-down"></i></a>
@@ -171,10 +167,10 @@ if (isset($_POST['submit'])) {
 							</ul>
 						</li>
 						<li>
-							<a href="admin/index.html" target="_blank">Admin</a>
+							<a href="http://heltcare.org/admin/login">Admin</a>
 						</li>
 						<li class="login-link">
-							<a href="login.html">Login / Signup</a>
+							<a href="doctor-login">Login / Signup</a>
 						</li>
 					</ul>
 				</div>
@@ -185,11 +181,11 @@ if (isset($_POST['submit'])) {
 						</div>
 						<div class="header-contact-detail">
 							<p class="contact-header">Contact</p>
-							<p class="contact-info-header"> +1 315 369 5943</p>
+							<p class="contact-info-header"> +880 1768085606</p>
 						</div>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link header-login" href="login.html">login / Signup </a>
+						<a class="nav-link header-login" href="doctor-login">login / Signup </a>
 					</li>
 				</ul>
 			</nav>
@@ -210,53 +206,54 @@ if (isset($_POST['submit'])) {
 								</div>
 								<div class="col-md-12 col-lg-6 login-right">
 									<div class="login-header">
-										<h3>Doctor Register <a href="register.html">Not a Doctor?</a></h3>
+										<h3>Doctor Register <a href="register">Not a Doctor?</a></h3>
 									</div>
 
 									<!-- Register Form -->
-									<form action="doctor-register.php" method="POST">
-										<div class="mt-2 pb-2">
-											
-											<input type="name" name="username" class="form-control" placeholder=" Name" value="<?php if (isset($_POST['submit'])) {
-																																						echo $username;
-																																					} ?>">
-											<span class="text-danger"><?php if (isset($_POST['submit'])) {
-																			echo $emptymsg1;
-																		} ?></span>
-										</div>
-										
-										<div class="mt-2 pb-2">
-											
-											<input type="email" name="user_email" class="form-control" placeholder="Enter your email" value="<?php if (isset($_POST['submit'])) {
-																																					echo $user_email;
-																																				} ?>">
-											<span class="text-danger"><?php if (isset($_POST['submit'])) {
-																			echo $emptymsg2;
-																		} ?></span>
-										</div>
-										<div class="mt-1 pb-2">
-											
-											<input type="text" name="phone" class="form-control" placeholder="phone number">
-											<span class="text-danger"><?php if (isset($_POST['submit'])) {
-																			echo $emptymsg3;
-																		} ?></span>
-										</div>
-										<div class="mt-1 pb-2">
-											
-											<input type="password" name="user_password" class="form-control" placeholder=" password">
-											<span class="text-danger"><?php if (isset($_POST['submit'])) {
-																			echo $emptymsg4;
-																		} ?></span>
-										</div>
-										<div class="mt-1 pb-2">
-											
-											<input type="password" name="passwordagain" class="form-control" placeholder="password Again">
-											<span class="text-danger"><?php if (isset($_POST['submit'])) {
-																			echo $emptymsg5;
-																		} ?></span>
-										</div>
+									<form action="doctor-register" method="POST">
+									<div class="mt-2 pb-2">
+									<label for="firstname">First Name:</label>
+									<input type="name" name="users_first_name" class="form-control" placeholder="Your First Name" value="<?php if (isset($_POST['submit'])) {
+																																				echo $users_first_name;
+																																			} ?>">
+									<span class="text-danger"><?php if (isset($_POST['submit'])) {
+																	echo $emptymsg1;
+																} ?></span>
+								</div>
+								<div class="mt-2 pb-2">
+									<label for="users_last_name">Last Name:</label>
+									<input type="name" name="users_last_name" class="form-control" placeholder="Your Last Name" value="<?php if (isset($_POST['submit'])) {
+																																			echo $users_last_name;
+																																		} ?>">
+									<span class="text-danger"><?php if (isset($_POST['submit'])) {
+																	echo $emptymsg2;
+																} ?></span>
+								</div>
+								<div class="mt-2 pb-2">
+									<label for="email">Email:</label>
+									<input type="email" name="users_email" class="form-control" placeholder="Enter your email" value="<?php if (isset($_POST['submit'])) {
+																																			echo $users_email;
+																																		} ?>">
+									<span class="text-danger"><?php if (isset($_POST['submit'])) {
+																	echo $emptymsg3;
+																} ?></span>
+								</div>
+								<div class="mt-1 pb-2">
+									<label for="password">Password:</label>
+									<input type="password" name="users_password" class="form-control" placeholder="Enter New password">
+									<span class="text-danger"><?php if (isset($_POST['submit'])) {
+																	echo $emptymsg4;
+																} ?></span>
+								</div>
+								<div class="mt-1 pb-2">
+									<label for="password">Password Again:</label>
+									<input type="password" name="passwordagain" class="form-control" placeholder="Enter password Again">
+									<span class="text-danger"><?php if (isset($_POST['submit'])) {
+																	echo $emptymsg5 . '' . $pasmatchmsg;
+																} ?></span>
+								</div>
 										<div class="text-right">
-											<a class="forgot-link" href="login.html">Already have an account?</a>
+											<a class="forgot-link" href="doctor-login">Already have an account?</a>
 										</div>
 										<button name="submit" class="btn btn-primary btn-block btn-lg login-btn">Signup</button>
 										<div class="login-or">
@@ -370,11 +367,11 @@ if (isset($_POST['submit'])) {
 								<div class="footer-contact-info">
 									<div class="footer-address">
 										<span><i class="fas fa-map-marker-alt"></i></span>
-										<p> 3556 Beech Street, San Francisco,<br> California, CA 94108 </p>
+										<p> 3556 Beech Street, San Francisco,<br> Mirpur ,Dhaka Bangladesh</p>
 									</div>
 									<p>
 										<i class="fas fa-phone-alt"></i>
-										+1 315 369 5943
+										+880 1768085606
 									</p>
 									<p class="mb-0">
 										<i class="fas fa-envelope"></i>

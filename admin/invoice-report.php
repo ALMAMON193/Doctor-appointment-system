@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice-report.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice-report by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -40,10 +40,10 @@
 			
 				<!-- Logo -->
                 <div class="header-left">
-                    <a href="index.php" class="logo">
+                    <a href="index" class="logo">
 						<img src="assets/img/logo.png" alt="Logo">
 					</a>
-					<a href="index.php" class="logo logo-small">
+					<a href="index" class="logo logo-small">
 						<img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
 					</a>
                 </div>
@@ -114,7 +114,7 @@
 													<img class="avatar-img rounded-circle" alt="User Image" src="assets/img/patients/patient2.jpg">
 												</span>
 												<div class="media-body">
-												<p class="noti-details"><span class="noti-title">Travis Trimble</span> sent a amount of $210 for his <span class="noti-title">appointment</span></p>
+												<p class="noti-details"><span class="noti-title">Travis Trimble</span> sent a amount of 210 for his <span class="noti-title">appointment</span></p>
 												<p class="noti-time"><span class="notification-time">8 mins ago</span></p>
 												</div>
 											</div>
@@ -157,9 +157,9 @@
 									<p class="text-muted mb-0">Administrator</p>
 								</div>
 							</div>
-							<a class="dropdown-item" href="profile.php">My Profile</a>
-							<a class="dropdown-item" href="settings.php">Settings</a>
-							<a class="dropdown-item" href="login.php">Logout</a>
+							<a class="dropdown-item" href="profile">My Profile</a>
+							<a class="dropdown-item" href="settings">Settings</a>
+							<a class="dropdown-item" href="login">Logout</a>
 						</div>
 					</li>
 					<!-- /User Menu -->
@@ -179,82 +179,82 @@
 								<span>Main</span>
 							</li>
 							<li> 
-								<a href="index.php"><i class="fe fe-home"></i> <span>Dashboard</span></a>
+								<a href="index"><i class="fe fe-home"></i> <span>Dashboard</span></a>
 							</li>
 							<li> 
-								<a href="appointment-list.php"><i class="fe fe-layout"></i> <span>Appointments</span></a>
+								<a href="appointment-list"><i class="fe fe-layout"></i> <span>Appointments</span></a>
 							</li>
 							<li> 
-								<a href="specialities.php"><i class="fe fe-users"></i> <span>Specialities</span></a>
+								<a href="specialities"><i class="fe fe-users"></i> <span>Specialities</span></a>
 							</li>
 							<li> 
-								<a href="doctor-list.php"><i class="fe fe-user-plus"></i> <span>Doctors</span></a>
+								<a href="doctor-list"><i class="fe fe-user-plus"></i> <span>Doctors</span></a>
 							</li>
 							<li> 
-								<a href="patient-list.php"><i class="fe fe-user"></i> <span>Patients</span></a>
+								<a href="patient-list"><i class="fe fe-user"></i> <span>Patients</span></a>
 							</li>
 							<li> 
-								<a href="reviews.php"><i class="fe fe-star-o"></i> <span>Reviews</span></a>
+								<a href="reviews"><i class="fe fe-star-o"></i> <span>Reviews</span></a>
 							</li>
 							<li> 
-								<a href="transactions-list.php"><i class="fe fe-activity"></i> <span>Transactions</span></a>
+								<a href="transactions-list"><i class="fe fe-activity"></i> <span>Transactions</span></a>
 							</li>
 							<li> 
-								<a href="settings.php"><i class="fe fe-vector"></i> <span>Settings</span></a>
+								<a href="settings"><i class="fe fe-vector"></i> <span>Settings</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-document"></i> <span> Reports</span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a class="active" href="invoice-report.php">Invoice Reports</a></li>
+									<li><a class="active" href="invoice-report">Invoice Reports</a></li>
 								</ul>
 							</li>
 							<li class="menu-title"> 
 								<span>Pages</span>
 							</li>
 							<li> 
-								<a href="profile.php"><i class="fe fe-user-plus"></i> <span>Profile</span></a>
+								<a href="profile"><i class="fe fe-user-plus"></i> <span>Profile</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-document"></i> <span> Authentication </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="login.php"> Login </a></li>
-									<li><a href="register.php"> Register </a></li>
-									<li><a href="forgot-password.php"> Forgot Password </a></li>
-									<li><a href="lock-screen.php"> Lock Screen </a></li>
+									<li><a href="login"> Login </a></li>
+									<li><a href="register"> Register </a></li>
+									<li><a href="forgot-password"> Forgot Password </a></li>
+									<li><a href="lock-screen"> Lock Screen </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-warning"></i> <span> Error Pages </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="error-404.php">404 Error </a></li>
-									<li><a href="error-500.php">500 Error </a></li>
+									<li><a href="error-404">404 Error </a></li>
+									<li><a href="error-500">500 Error </a></li>
 								</ul>
 							</li>
 							<li> 
-								<a href="blank-page.php"><i class="fe fe-file"></i> <span>Blank Page</span></a>
+								<a href="blank-page"><i class="fe fe-file"></i> <span>Blank Page</span></a>
 							</li>
 							<li class="menu-title"> 
 								<span>UI Interface</span>
 							</li>
 							<li> 
-								<a href="components.php"><i class="fe fe-vector"></i> <span>Components</span></a>
+								<a href="components"><i class="fe fe-vector"></i> <span>Components</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-layout"></i> <span> Forms </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="form-basic-inputs.php">Basic Inputs </a></li>
-									<li><a href="form-input-groups.php">Input Groups </a></li>
-									<li><a href="form-horizontal.php">Horizontal Form </a></li>
-									<li><a href="form-vertical.php"> Vertical Form </a></li>
-									<li><a href="form-mask.php"> Form Mask </a></li>
-									<li><a href="form-validation.php"> Form Validation </a></li>
+									<li><a href="form-basic-inputs">Basic Inputs </a></li>
+									<li><a href="form-input-groups">Input Groups </a></li>
+									<li><a href="form-horizontal">Horizontal Form </a></li>
+									<li><a href="form-vertical"> Vertical Form </a></li>
+									<li><a href="form-mask"> Form Mask </a></li>
+									<li><a href="form-validation"> Form Validation </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-table"></i> <span> Tables </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="tables-basic.php">Basic Tables </a></li>
-									<li><a href="data-tables.php">Data Table </a></li>
+									<li><a href="tables-basic">Basic Tables </a></li>
+									<li><a href="data-tables">Data Table </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
@@ -295,7 +295,7 @@
 							<div class="col-sm-12">
 								<h3 class="page-title">Invoice Report</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index">Dashboard</a></li>
 									<li class="breadcrumb-item active">Invoice Report</li>
 								</ul>
 							</div>
@@ -322,15 +322,15 @@
 											</thead>
 											<tbody>
 												<tr>
-													<td><a href="invoice.php">#IN0001</td>
+													<td><a href="invoice">#IN0001</td>
 													<td>#PT001</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient1.jpg" alt="User Image"></a>
-															<a href="profile.php">Charlene Reed </a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient1.jpg" alt="User Image"></a>
+															<a href="profile">Charlene Reed </a>
 														</h2>
 													</td>
-													<td>$100.00</td>
+													<td>100.00</td>
 													<td>9 Sep 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -348,15 +348,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0002</td>
+													<td><a href="invoice">#IN0002</td>
 													<td>#PT002</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient2.jpg" alt="User Image"></a>
-															<a href="profile.php">Travis Trimble </a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient2.jpg" alt="User Image"></a>
+															<a href="profile">Travis Trimble </a>
 														</h2>
 													</td>
-													<td>$200.00</td>
+													<td>200.00</td>
 													<td>29 Oct 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -374,15 +374,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0003</td>
+													<td><a href="invoice">#IN0003</td>
 													<td>#PT003</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient3.jpg" alt="User Image"></a>
-															<a href="profile.php">Carl Kelly</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient3.jpg" alt="User Image"></a>
+															<a href="profile">Carl Kelly</a>
 														</h2>
 													</td>
-													<td>$250.00</td>
+													<td>250.00</td>
 													<td>25 Sep 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -400,15 +400,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0004</td>
+													<td><a href="invoice">#IN0004</td>
 													<td>#PT004</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient4.jpg" alt="User Image"></a>
-															<a href="profile.php"> Michelle Fairfax</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient4.jpg" alt="User Image"></a>
+															<a href="profile"> Michelle Fairfax</a>
 														</h2>
 													</td>
-													<td>$150.00</td>
+													<td>150.00</td>
 													<td>9 Oct 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -426,15 +426,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0005</td>
+													<td><a href="invoice">#IN0005</td>
 													<td>#PT005</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient5.jpg" alt="User Image"></a>
-															<a href="profile.php">Gina Moore</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient5.jpg" alt="User Image"></a>
+															<a href="profile">Gina Moore</a>
 														</h2>
 													</td>
-													<td>$350.00</td>
+													<td>350.00</td>
 													<td>19 Nov 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -452,15 +452,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0006</td>
+													<td><a href="invoice">#IN0006</td>
 													<td>#PT006</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient6.jpg" alt="User Image"></a>
-															<a href="profile.php">Elsie Gilley</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient6.jpg" alt="User Image"></a>
+															<a href="profile">Elsie Gilley</a>
 														</h2>
 													</td>
-													<td>$300.00</td>
+													<td>300.00</td>
 													<td>12 Oct 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -478,15 +478,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0007</td>
+													<td><a href="invoice">#IN0007</td>
 													<td>#PT007</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient7.jpg" alt="User Image"></a>
-															<a href="profile.php"> Joan Gardner</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient7.jpg" alt="User Image"></a>
+															<a href="profile"> Joan Gardner</a>
 														</h2>
 													</td>
-													<td>$250.00</td>
+													<td>250.00</td>
 													<td>25 Oct 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -504,15 +504,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0008</td>
+													<td><a href="invoice">#IN0008</td>
 													<td>#PT008</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient8.jpg" alt="User Image"></a>
-															<a href="profile.php"> Daniel Griffing</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient8.jpg" alt="User Image"></a>
+															<a href="profile"> Daniel Griffing</a>
 														</h2>
 													</td>
-													<td>$150.00</td>
+													<td>150.00</td>
 													<td>30 Oct 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -530,15 +530,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0009</td>
+													<td><a href="invoice">#IN0009</td>
 													<td>#PT009</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient9.jpg" alt="User Image"></a>
-															<a href="profile.php">Walter Roberson</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient9.jpg" alt="User Image"></a>
+															<a href="profile">Walter Roberson</a>
 														</h2>
 													</td>
-													<td>$100.00</td>
+													<td>100.00</td>
 													<td>5 Nov 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -556,15 +556,15 @@
 													</td>
 												</tr>
 												<tr>
-													<td><a href="invoice.php">#IN0010</td>
+													<td><a href="invoice">#IN0010</td>
 													<td>#PT010</td>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient10.jpg" alt="User Image"></a>
-															<a href="profile.php">Robert Rhodes </a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient10.jpg" alt="User Image"></a>
+															<a href="profile">Robert Rhodes </a>
 														</h2>
 													</td>
-													<td>$120.00</td>
+													<td>120.00</td>
 													<td>7 Nov 2019</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
@@ -633,7 +633,7 @@
 									<div class="col-12 col-sm-6">
 										<div class="form-group">
 											<label>Total Amount</label>
-											<input type="text"  class="form-control" value="$200.00">
+											<input type="text"  class="form-control" value="200.00">
 										</div>
 									</div>
 									<div class="col-12 col-sm-6">
@@ -696,5 +696,5 @@
 		
     </body>
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice-report.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice-report by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
 </html>

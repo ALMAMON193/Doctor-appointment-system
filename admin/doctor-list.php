@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/doctor-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:51 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/doctor-list by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:51 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -40,10 +40,10 @@
 			
 				<!-- Logo -->
                 <div class="header-left">
-                    <a href="index.php" class="logo">
+                    <a href="index" class="logo">
 						<img src="assets/img/logo.png" alt="Logo">
 					</a>
-					<a href="index.php" class="logo logo-small">
+					<a href="index" class="logo logo-small">
 						<img src="assets/img/logo-small.png" alt="Logo" width="30" height="30">
 					</a>
                 </div>
@@ -157,9 +157,9 @@
 									<p class="text-muted mb-0">Administrator</p>
 								</div>
 							</div>
-							<a class="dropdown-item" href="profile.php">My Profile</a>
-							<a class="dropdown-item" href="settings.php">Settings</a>
-							<a class="dropdown-item" href="login.php">Logout</a>
+							<a class="dropdown-item" href="profile">My Profile</a>
+							<a class="dropdown-item" href="settings">Settings</a>
+							<a class="dropdown-item" href="login">Logout</a>
 						</div>
 					</li>
 					<!-- /User Menu -->
@@ -179,82 +179,82 @@
 								<span>Main</span>
 							</li>
 							<li> 
-								<a href="index.php"><i class="fe fe-home"></i> <span>Dashboard</span></a>
+								<a href="index"><i class="fe fe-home"></i> <span>Dashboard</span></a>
 							</li>
 							<li> 
-								<a href="appointment-list.php"><i class="fe fe-layout"></i> <span>Appointments</span></a>
+								<a href="appointment-list"><i class="fe fe-layout"></i> <span>Appointments</span></a>
 							</li>
 							<li> 
-								<a href="specialities.php"><i class="fe fe-users"></i> <span>Specialities</span></a>
+								<a href="specialities"><i class="fe fe-users"></i> <span>Specialities</span></a>
 							</li>
 							<li class="active"> 
-								<a href="doctor-list.php"><i class="fe fe-user-plus"></i> <span>Doctors</span></a>
+								<a href="doctor-list"><i class="fe fe-user-plus"></i> <span>Doctors</span></a>
 							</li>
 							<li> 
-								<a href="patient-list.php"><i class="fe fe-user"></i> <span>Patients</span></a>
+								<a href="patient-list"><i class="fe fe-user"></i> <span>Patients</span></a>
 							</li>
 							<li> 
-								<a href="reviews.php"><i class="fe fe-star-o"></i> <span>Reviews</span></a>
+								<a href="reviews"><i class="fe fe-star-o"></i> <span>Reviews</span></a>
 							</li>
 							<li> 
-								<a href="transactions-list.php"><i class="fe fe-activity"></i> <span>Transactions</span></a>
+								<a href="transactions-list"><i class="fe fe-activity"></i> <span>Transactions</span></a>
 							</li>
 							<li> 
-								<a href="settings.php"><i class="fe fe-vector"></i> <span>Settings</span></a>
+								<a href="settings"><i class="fe fe-vector"></i> <span>Settings</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-document"></i> <span> Reports</span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="invoice-report.php">Invoice Reports</a></li>
+									<li><a href="invoice-report">Invoice Reports</a></li>
 								</ul>
 							</li>
 							<li class="menu-title"> 
 								<span>Pages</span>
 							</li>
 							<li> 
-								<a href="profile.php"><i class="fe fe-user-plus"></i> <span>Profile</span></a>
+								<a href="profile"><i class="fe fe-user-plus"></i> <span>Profile</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-document"></i> <span> Authentication </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="login.php"> Login </a></li>
-									<li><a href="register.php"> Register </a></li>
-									<li><a href="forgot-password.php"> Forgot Password </a></li>
-									<li><a href="lock-screen.php"> Lock Screen </a></li>
+									<li><a href="login"> Login </a></li>
+									<li><a href="register"> Register </a></li>
+									<li><a href="forgot-password"> Forgot Password </a></li>
+									<li><a href="lock-screen"> Lock Screen </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-warning"></i> <span> Error Pages </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="error-404.php">404 Error </a></li>
-									<li><a href="error-500.php">500 Error </a></li>
+									<li><a href="error-404">404 Error </a></li>
+									<li><a href="error-500">500 Error </a></li>
 								</ul>
 							</li>
 							<li> 
-								<a href="blank-page.php"><i class="fe fe-file"></i> <span>Blank Page</span></a>
+								<a href="blank-page"><i class="fe fe-file"></i> <span>Blank Page</span></a>
 							</li>
 							<li class="menu-title"> 
 								<span>UI Interface</span>
 							</li>
 							<li> 
-								<a href="components.php"><i class="fe fe-vector"></i> <span>Components</span></a>
+								<a href="components"><i class="fe fe-vector"></i> <span>Components</span></a>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-layout"></i> <span> Forms </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="form-basic-inputs.php">Basic Inputs </a></li>
-									<li><a href="form-input-groups.php">Input Groups </a></li>
-									<li><a href="form-horizontal.php">Horizontal Form </a></li>
-									<li><a href="form-vertical.php"> Vertical Form </a></li>
-									<li><a href="form-mask.php"> Form Mask </a></li>
-									<li><a href="form-validation.php"> Form Validation </a></li>
+									<li><a href="form-basic-inputs">Basic Inputs </a></li>
+									<li><a href="form-input-groups">Input Groups </a></li>
+									<li><a href="form-horizontal">Horizontal Form </a></li>
+									<li><a href="form-vertical"> Vertical Form </a></li>
+									<li><a href="form-mask"> Form Mask </a></li>
+									<li><a href="form-validation"> Form Validation </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
 								<a href="#"><i class="fe fe-table"></i> <span> Tables </span> <span class="menu-arrow"></span></a>
 								<ul style="display: none;">
-									<li><a href="tables-basic.php">Basic Tables </a></li>
-									<li><a href="data-tables.php">Data Table </a></li>
+									<li><a href="tables-basic">Basic Tables </a></li>
+									<li><a href="data-tables">Data Table </a></li>
 								</ul>
 							</li>
 							<li class="submenu">
@@ -295,7 +295,7 @@
 							<div class="col-sm-12">
 								<h3 class="page-title">List of Doctors</h3>
 								<ul class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+									<li class="breadcrumb-item"><a href="index">Dashboard</a></li>
 									<li class="breadcrumb-item"><a href="javascript:(0);">Users</a></li>
 									<li class="breadcrumb-item active">Doctor</li>
 								</ul>
@@ -324,8 +324,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-01.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Ruby Perrin</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-01.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Ruby Perrin</a>
 														</h2>
 													</td>
 													<td>Dental</td>
@@ -344,8 +344,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-02.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Darren Elder</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-02.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Darren Elder</a>
 														</h2>
 													</td>
 													<td>Dental</td>
@@ -364,8 +364,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-03.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Deborah Angel</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-03.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Deborah Angel</a>
 														</h2>
 													</td>
 													<td>Cardiology</td>
@@ -384,8 +384,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-04.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Sofia Brient</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-04.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Sofia Brient</a>
 														</h2>
 													</td>
 													<td>Urology</td>
@@ -404,8 +404,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-05.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Marvin Campbell</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-05.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Marvin Campbell</a>
 														</h2>
 													</td>
 													<td>Orthopaedics</td>
@@ -424,8 +424,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-06.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Katharine Berthold</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-06.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Katharine Berthold</a>
 														</h2>
 													</td>
 													<td>Orthopaedics</td>
@@ -444,8 +444,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-07.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Linda Tobin</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-07.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Linda Tobin</a>
 														</h2>
 													</td>
 													<td>Neurology</td>
@@ -464,8 +464,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-08.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Paul Richard</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-08.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Paul Richard</a>
 														</h2>
 													</td>
 													<td>Dermatology</td>
@@ -484,8 +484,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-09.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. John Gibbs</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-09.jpg" alt="User Image"></a>
+															<a href="profile">Dr. John Gibbs</a>
 														</h2>
 													</td>
 													<td>Dental</td>
@@ -504,8 +504,8 @@
 												<tr>
 													<td>
 														<h2 class="table-avatar">
-															<a href="profile.php" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-10.jpg" alt="User Image"></a>
-															<a href="profile.php">Dr. Olga Barlow</a>
+															<a href="profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/doctors/doctor-thumb-10.jpg" alt="User Image"></a>
+															<a href="profile">Dr. Olga Barlow</a>
 														</h2>
 													</td>
 													<td>Dental</td>
@@ -555,5 +555,5 @@
 		
     </body>
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/doctor-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:51 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/doctor-list by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:51 GMT -->
 </html>
