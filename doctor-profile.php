@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html lang="en">
 	
-<!-- doccure/doctor-profile  30 Nov 2019 04:12:16 GMT -->
+<!-- doccure/doctor-profile  30 Nov 2023 04:12:16 GMT -->
 <head>
 		<meta charset="utf-8">
 		<title>Doccure</title>
@@ -93,27 +93,7 @@
 									<li><a href="change-password">Change Password</a></li>
 								</ul>
 							</li>	
-							<li class="has-submenu">
-								<a href="#">Pages <i class="fas fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li><a href="voice-call">Voice Call</a></li>
-									<li><a href="video-call">Video Call</a></li>
-									<li><a href="search">Search Doctors</a></li>
-									<li><a href="calendar">Calendar</a></li>
-									<li><a href="components">Components</a></li>
-									<li class="has-submenu">
-										<a href="invoices">Invoices</a>
-										<ul class="submenu">
-											<li><a href="invoices">Invoices</a></li>
-											<li><a href="invoice-view">Invoice View</a></li>
-										</ul>
-									</li>
-									<li><a href="blank-page">Starter Page</a></li>
-									<li><a href="login">Login</a></li>
-									<li><a href="register">Register</a></li>
-									<li><a href="forgot-password">Forgot Password</a></li>
-								</ul>
-							</li>
+							
 							<li>
 								<a href="admin/index" target="_blank">Admin</a>
 							</li>
@@ -371,7 +351,7 @@
 															</div>
 															<div class="experience-content">
 																<div class="timeline-content">
-																	<p class="exp-year">July 2019</p>
+																	<p class="exp-year">July 2023</p>
 																	<h4 class="exp-title">Humanitarian Award</h4>
 																	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin a ipsum tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 																</div>
@@ -824,7 +804,7 @@
 												<div class="widget-content">
 													<div class="listing-hours">
 														<div class="listing-day current">
-															<div class="day">Today <span>5 Nov 2019</span></div>
+															<div class="day">Today <span>5 Nov 2023</span></div>
 															<div class="time-items">
 																<span class="open-status"><span class="badge bg-success-light">Open Now</span></span>
 																<span class="time">07:00 AM - 09:00 PM</span>
@@ -1107,5 +1087,5 @@
 		
 	</body>
 
-<!-- doccure/doctor-profile  30 Nov 2019 04:12:16 GMT -->
+<!-- doccure/doctor-profile  30 Nov 2023 04:12:16 GMT -->
 </html>

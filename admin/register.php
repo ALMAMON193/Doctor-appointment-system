@@ -53,7 +53,7 @@ if (isset($_POST['submit'])) {
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/register by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/register by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:53 GMT -->
 
 <head>
 	<meta charset="utf-8">
@@ -96,7 +96,7 @@ if (isset($_POST['submit'])) {
 							<!-- Form -->
 							<form action="register" method="post">
 								<div class="mt-2 pb-2">
-									<label for="firstname">First Name:</label>
+								
 									<input type="name" name="users_first_name" class="form-control" placeholder="Your First Name" value="<?php if (isset($_POST['submit'])) {
 																																				echo $users_first_name;
 																																			} ?>">
@@ -105,7 +105,7 @@ if (isset($_POST['submit'])) {
 																} ?></span>
 								</div>
 								<div class="mt-2 pb-2">
-									<label for="users_last_name">Last Name:</label>
+								
 									<input type="name" name="users_last_name" class="form-control" placeholder="Your Last Name" value="<?php if (isset($_POST['submit'])) {
 																																			echo $users_last_name;
 																																		} ?>">
@@ -114,7 +114,7 @@ if (isset($_POST['submit'])) {
 																} ?></span>
 								</div>
 								<div class="mt-2 pb-2">
-									<label for="email">Email:</label>
+									
 									<input type="email" name="users_email" class="form-control" placeholder="Enter your email" value="<?php if (isset($_POST['submit'])) {
 																																			echo $users_email;
 																																		} ?>">
@@ -123,14 +123,14 @@ if (isset($_POST['submit'])) {
 																} ?></span>
 								</div>
 								<div class="mt-1 pb-2">
-									<label for="password">Password:</label>
+									
 									<input type="password" name="users_password" class="form-control" placeholder="Enter New password">
 									<span class="text-danger"><?php if (isset($_POST['submit'])) {
 																	echo $emptymsg4;
 																} ?></span>
 								</div>
 								<div class="mt-1 pb-2">
-									<label for="password">Password Again:</label>
+									
 									<input type="password" name="passwordagain" class="form-control" placeholder="Enter password Again">
 									<span class="text-danger"><?php if (isset($_POST['submit'])) {
 																	echo $emptymsg5 . '' . $pasmatchmsg;
@@ -175,6 +175,6 @@ if (isset($_POST['submit'])) {
 
 </body>
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/register by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/register by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:53 GMT -->
 
 </html>

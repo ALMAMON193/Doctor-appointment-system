@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html lang="en">
 	
-<!-- doccure/edit-billing  30 Nov 2019 04:12:37 GMT -->
+<!-- doccure/edit-billing  30 Nov 2023 04:12:37 GMT -->
 <head>
 		<meta charset="utf-8">
 		<title>Doccure</title>
@@ -90,27 +90,7 @@
 									<li><a href="change-password">Change Password</a></li>
 								</ul>
 							</li>	
-							<li class="has-submenu">
-								<a href="#">Pages <i class="fas fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li><a href="voice-call">Voice Call</a></li>
-									<li><a href="video-call">Video Call</a></li>
-									<li><a href="search">Search Doctors</a></li>
-									<li><a href="calendar">Calendar</a></li>
-									<li><a href="components">Components</a></li>
-									<li class="has-submenu">
-										<a href="invoices">Invoices</a>
-										<ul class="submenu">
-											<li><a href="invoices">Invoices</a></li>
-											<li><a href="invoice-view">Invoice View</a></li>
-										</ul>
-									</li>
-									<li><a href="blank-page">Starter Page</a></li>
-									<li><a href="login">Login</a></li>
-									<li><a href="register">Register</a></li>
-									<li><a href="forgot-password">Forgot Password</a></li>
-								</ul>
-							</li>
+							
 							<li>
 								<a href="admin/index" target="_blank">Admin</a>
 							</li>
@@ -230,7 +210,7 @@
 										</div>
 										<div class="col-sm-6 text-sm-right">
 											<div class="billing-info">
-												<h4 class="d-block">1 November 2019</h4>
+												<h4 class="d-block">1 November 2023</h4>
 												<span class="d-block text-muted">#INV0001</span>
 											</div>
 										</div>
@@ -479,5 +459,5 @@
 		
 	</body>
 
-<!-- doccure/edit-billing  30 Nov 2019 04:12:37 GMT -->
+<!-- doccure/edit-billing  30 Nov 2023 04:12:37 GMT -->
 </html>

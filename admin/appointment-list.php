@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/appointment-list by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:46 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/appointment-list by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:46 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -335,7 +335,7 @@
 															<a href="profile">Charlene Reed </a>
 														</h2>
 													</td>
-													<td>9 Nov 2019 <span class="text-primary d-block">11.00 AM - 11.15 AM</span></td>
+													<td>9 Nov 2023 <span class="text-primary d-block">11.00 AM - 11.15 AM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_1" class="check" checked>
@@ -361,7 +361,7 @@
 														</h2>
 													</td>
 													
-													<td>5 Nov 2019 <span class="text-primary d-block">11.00 AM - 11.35 AM</span></td>
+													<td>5 Nov 2023 <span class="text-primary d-block">11.00 AM - 11.35 AM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_2" class="check" checked>
@@ -386,7 +386,7 @@
 															<a href="profile">Carl Kelly</a>
 														</h2>
 													</td>
-													<td>11 Nov 2019 <span class="text-primary d-block">12.00 PM - 12.15 PM</span></td>
+													<td>11 Nov 2023 <span class="text-primary d-block">12.00 PM - 12.15 PM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_3" class="check" checked>
@@ -411,7 +411,7 @@
 															<a href="profile"> Michelle Fairfax</a>
 														</h2>
 													</td>
-													<td>7 Nov 2019 <span class="text-primary d-block">1.00 PM - 1.20 PM</span></td>
+													<td>7 Nov 2023 <span class="text-primary d-block">1.00 PM - 1.20 PM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_4" class="check" checked>
@@ -437,7 +437,7 @@
 														</h2>
 													</td>
 													
-													<td>15 Nov 2019 <span class="text-primary d-block">1.00 PM - 1.15 PM</span></td>
+													<td>15 Nov 2023 <span class="text-primary d-block">1.00 PM - 1.15 PM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_5" class="check" checked>
@@ -463,7 +463,7 @@
 														</h2>
 													</td>
 													
-													<td>16 Nov 2019 <span class="text-primary d-block">1.00 PM - 1.15 PM</span></td>
+													<td>16 Nov 2023 <span class="text-primary d-block">1.00 PM - 1.15 PM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_5" class="check" checked>
@@ -489,7 +489,7 @@
 														</h2>
 													</td>
 													
-													<td>18 Nov 2019 <span class="text-primary d-block">1.10 PM - 1.25 PM</span></td>
+													<td>18 Nov 2023 <span class="text-primary d-block">1.10 PM - 1.25 PM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_5" class="check" checked>
@@ -515,7 +515,7 @@
 														</h2>
 													</td>
 													
-													<td>18 Nov 2019 <span class="text-primary d-block">11.10 AM - 11.25 AM</span></td>
+													<td>18 Nov 2023 <span class="text-primary d-block">11.10 AM - 11.25 AM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_5" class="check" checked>
@@ -541,7 +541,7 @@
 														</h2>
 													</td>
 													
-													<td>21 Nov 2019 <span class="text-primary d-block">12.10 PM - 12.25 PM</span></td>
+													<td>21 Nov 2023 <span class="text-primary d-block">12.10 PM - 12.25 PM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_5" class="check" checked>
@@ -567,7 +567,7 @@
 														</h2>
 													</td>
 													
-													<td>23 Nov 2019 <span class="text-primary d-block">12.10 PM - 12.25 PM</span></td>
+													<td>23 Nov 2023 <span class="text-primary d-block">12.10 PM - 12.25 PM</span></td>
 													<td>
 														<div class="status-toggle">
 															<input type="checkbox" id="status_5" class="check" checked>
@@ -613,5 +613,5 @@
 		
     </body>
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/appointment-list by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:49 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/appointment-list by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:49 GMT -->
 </html>

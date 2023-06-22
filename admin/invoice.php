@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<!DMarchYPE html>
 <html lang="en">
     
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:57 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:57 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -82,7 +82,7 @@
 										<a href="#">
 											<div class="media">
 												<span class="avatar avatar-sm">
-													<img class="avatar-img rounded-circle" alt="User Image" src="assets/img/doctors/doctor-thumb-01.jpg">
+													<img class="avatar-img rounded-circle" alt="User Image" src="assets/img/dMarchors/dMarchor-thumb-01.jpg">
 												</span>
 												<div class="media-body">
 													<p class="noti-details"><span class="noti-title">Dr. Ruby Perrin</span> Schedule <span class="noti-title">her appointment</span></p>
@@ -124,7 +124,7 @@
 													<img class="avatar-img rounded-circle" alt="User Image" src="assets/img/patients/patient3.jpg">
 												</span>
 												<div class="media-body">
-													<p class="noti-details"><span class="noti-title">Carl Kelly</span> send a message <span class="noti-title"> to his doctor</span></p>
+													<p class="noti-details"><span class="noti-title">Carl Kelly</span> send a message <span class="noti-title"> to his dMarchor</span></p>
 													<p class="noti-time"><span class="notification-time">12 mins ago</span></p>
 												</div>
 											</div>
@@ -185,7 +185,7 @@
 								<a href="specialities"><i class="fe fe-users"></i> <span>Specialities</span></a>
 							</li>
 							<li> 
-								<a href="doctor-list"><i class="fe fe-user-plus"></i> <span>Doctors</span></a>
+								<a href="dMarchor-list"><i class="fe fe-user-plus"></i> <span>DMarchors</span></a>
 							</li>
 							<li> 
 								<a href="patient-list"><i class="fe fe-user"></i> <span>Patients</span></a>
@@ -297,7 +297,7 @@
 								<div class="invoice-details">
 									<h3 class="text-uppercase">Invoice #INV-0001</h3>
 									<ul class="list-unstyled mb-0">
-										<li>Date: <span>March 12, 2019</span></li>
+										<li>Date: <span>March 12, 2023</span></li>
 									</ul>
 								</div>
 							</div>
@@ -453,5 +453,5 @@
 		<script src="assets/js/script.js"></script>
     </body>
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:57 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:57 GMT -->
 </html>

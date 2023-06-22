@@ -55,7 +55,7 @@ if (isset($_POST['submit'])) {
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- doccure/register  30 Nov 2019 04:12:20 GMT -->
+<!-- doccure/register  30 Nov 2023 04:12:20 GMT -->
 
 <head>
 	<meta charset="utf-8">
@@ -439,6 +439,6 @@ if (isset($_POST['submit'])) {
 
 </body>
 
-<!-- doccure/register  30 Nov 2019 04:12:20 GMT -->
+<!-- doccure/register  30 Nov 2023 04:12:20 GMT -->
 
 </html>

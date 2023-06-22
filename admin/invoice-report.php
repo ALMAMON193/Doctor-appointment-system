@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice-report by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice-report by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:53 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -331,7 +331,7 @@
 														</h2>
 													</td>
 													<td>100.00</td>
-													<td>9 Sep 2019</td>
+													<td>9 Sep 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -357,7 +357,7 @@
 														</h2>
 													</td>
 													<td>200.00</td>
-													<td>29 Oct 2019</td>
+													<td>29 Oct 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -383,7 +383,7 @@
 														</h2>
 													</td>
 													<td>250.00</td>
-													<td>25 Sep 2019</td>
+													<td>25 Sep 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -409,7 +409,7 @@
 														</h2>
 													</td>
 													<td>150.00</td>
-													<td>9 Oct 2019</td>
+													<td>9 Oct 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -435,7 +435,7 @@
 														</h2>
 													</td>
 													<td>350.00</td>
-													<td>19 Nov 2019</td>
+													<td>19 Nov 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -461,7 +461,7 @@
 														</h2>
 													</td>
 													<td>300.00</td>
-													<td>12 Oct 2019</td>
+													<td>12 Oct 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -487,7 +487,7 @@
 														</h2>
 													</td>
 													<td>250.00</td>
-													<td>25 Oct 2019</td>
+													<td>25 Oct 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -513,7 +513,7 @@
 														</h2>
 													</td>
 													<td>150.00</td>
-													<td>30 Oct 2019</td>
+													<td>30 Oct 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -539,7 +539,7 @@
 														</h2>
 													</td>
 													<td>100.00</td>
-													<td>5 Nov 2019</td>
+													<td>5 Nov 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -565,7 +565,7 @@
 														</h2>
 													</td>
 													<td>120.00</td>
-													<td>7 Nov 2019</td>
+													<td>7 Nov 2023</td>
 													<td class="text-center">
 														<span class="badge badge-pill bg-success inv-badge">Paid</span>
 													</td>
@@ -639,7 +639,7 @@
 									<div class="col-12 col-sm-6">
 										<div class="form-group">
 											<label>Created Date</label>
-											<input type="text"  class="form-control" value="29th Oct 2019">
+											<input type="text"  class="form-control" value="29th Oct 2023">
 										</div>
 									</div>
 									
@@ -696,5 +696,5 @@
 		
     </body>
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice-report by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:53 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/invoice-report by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:53 GMT -->
 </html>

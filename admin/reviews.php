@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/reviews by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:52 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/reviews by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:52 GMT -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
@@ -345,7 +345,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>3 Nov 2019 <br><small>09.59 AM</small></td>
+														<td>3 Nov 2023 <br><small>09.59 AM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -382,7 +382,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>2 Nov 2019<br> <small>08.50 AM</small></td>
+														<td>2 Nov 2023<br> <small>08.50 AM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -418,7 +418,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>1 Nov 2019<br> <small>02.59 PM</small></td>
+														<td>1 Nov 2023<br> <small>02.59 PM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -455,7 +455,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>27 Sep 2019 <br><small>03.40 PM</small></td>
+														<td>27 Sep 2023 <br><small>03.40 PM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -491,7 +491,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>24 Sep 2019 <br><small>04.38 PM</small></td>
+														<td>24 Sep 2023 <br><small>04.38 PM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -526,7 +526,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>22 Aug 2019 <br><small>01.50 PM</small></td>
+														<td>22 Aug 2023 <br><small>01.50 PM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -561,7 +561,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>21 Jul 2019 <br><small>05.50 PM</small></td>
+														<td>21 Jul 2023 <br><small>05.50 PM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -595,7 +595,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>16 Jun 2019 <br><small>04.50 PM</small></td>
+														<td>16 Jun 2023 <br><small>04.50 PM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -630,7 +630,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>11 Mar 2019 <br><small>05.55 PM</small></td>
+														<td>11 Mar 2023 <br><small>05.55 PM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -665,7 +665,7 @@
 													<td>
 														Lorem ipsum dolor sit amet, consectetur adipiscing elit
 													</td>
-														<td>15 Feb 2019 <br><small>07.30 PM</small></td>
+														<td>15 Feb 2023 <br><small>07.30 PM</small></td>
 													<td class="text-right">
 														<div class="actions">
 															<a class="btn btn-sm bg-danger-light" data-toggle="modal" href="#delete_modal">
@@ -731,5 +731,5 @@
 		
     </body>
 
-<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/reviews by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2019 04:12:52 GMT -->
+<!-- Mirrored from dreamguys.co.in/demo/doccure/admin/reviews by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 Nov 2023 04:12:52 GMT -->
 </html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- doccure/doctor-dashboard  30 Nov 2019 04:12:03 GMT -->
+<!-- doccure/doctor-dashboard  30 Feb 2023 04:12:03 GMT -->
 
 <head>
 	<meta charset="utf-8">
@@ -172,7 +172,7 @@
 								<li class="breadcrumb-item active" aria-current="page">Dashboard</li>
 							</ol>
 						</nav>
-						<h2 class="breadcrumb-title">Dashboard</h2>
+						<h2 class="breadcrumb-title">Doctor</h2>
 					</div>
 				</div>
 			</div>
@@ -194,7 +194,7 @@
 										<img src="assets/img/doctors/doctor-thumb-02.jpg" alt="User Image">
 									</a>
 									<div class="profile-det-info">
-										<h3>Dr. Darren Elder</h3>
+										<h3>Dr. Dulal chandro das</h3>
 
 										<div class="patient-details">
 											<h5 class="mb-0">BDS, MDS - Oral & Maxillofacial Surgery</h5>
@@ -321,7 +321,7 @@
 													<div class="dash-widget-info">
 														<h6>Today Patient</h6>
 														<h3>160</h3>
-														<p class="text-muted">06, Nov 2019</p>
+														<p class="text-muted">06, Feb 2023</p>
 													</div>
 												</div>
 											</div>
@@ -336,7 +336,7 @@
 													<div class="dash-widget-info">
 														<h6>Appoinments</h6>
 														<h3>85</h3>
-														<p class="text-muted">06, Apr 2019</p>
+														<p class="text-muted">06, Apr 2023</p>
 													</div>
 												</div>
 											</div>
@@ -385,10 +385,10 @@
 																	<td>
 																		<h2 class="table-avatar">
 																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Richard Wilson <span>#PT0016</span></a>
+																			<a href="patient-profile">Alamin <span>#PT0016</span></a>
 																		</h2>
 																	</td>
-																	<td>11 Nov 2019 <span class="d-block text-info">10.00 AM</span></td>
+																	<td>11 Feb 2023 <span class="d-block text-info">10.00 AM</span></td>
 																	<td>General</td>
 																	<td>New Patient</td>
 																	<td class="text-center">150</td>
@@ -410,11 +410,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient1.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Charlene Reed <span>#PT0001</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">Robin <span>#PT0001</span></a>
 																		</h2>
 																	</td>
-																	<td>3 Nov 2019 <span class="d-block text-info">11.00 AM</span></td>
+																	<td>3 Feb 2023 <span class="d-block text-info">11.00 AM</span></td>
 																	<td>General</td>
 																	<td>Old Patient</td>
 																	<td class="text-center">200</td>
@@ -436,11 +436,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient2.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Travis Trimble <span>#PT0002</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">Tmaim <span>#PT0002</span></a>
 																		</h2>
 																	</td>
-																	<td>1 Nov 2019 <span class="d-block text-info">1.00 PM</span></td>
+																	<td>1 Feb 2023 <span class="d-block text-info">1.00 PM</span></td>
 																	<td>General</td>
 																	<td>New Patient</td>
 																	<td class="text-center">75</td>
@@ -462,11 +462,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient3.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Carl Kelly <span>#PT0003</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">Tanna <span>#PT0003</span></a>
 																		</h2>
 																	</td>
-																	<td>30 Oct 2019 <span class="d-block text-info">9.00 AM</span></td>
+																	<td>30 Oct 2023 <span class="d-block text-info">9.00 AM</span></td>
 																	<td>General</td>
 																	<td>Old Patient</td>
 																	<td class="text-center">100</td>
@@ -488,11 +488,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient4.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Michelle Fairfax <span>#PT0004</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">hery <span>#PT0004</span></a>
 																		</h2>
 																	</td>
-																	<td>28 Oct 2019 <span class="d-block text-info">6.00 PM</span></td>
+																	<td>28 Oct 2023 <span class="d-block text-info">6.00 PM</span></td>
 																	<td>General</td>
 																	<td>New Patient</td>
 																	<td class="text-center">350</td>
@@ -514,11 +514,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient5.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Gina Moore <span>#PT0005</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">Dulal <span>#PT0005</span></a>
 																		</h2>
 																	</td>
-																	<td>27 Oct 2019 <span class="d-block text-info">8.00 AM</span></td>
+																	<td>27 Oct 2023 <span class="d-block text-info">8.00 AM</span></td>
 																	<td>General</td>
 																	<td>Old Patient</td>
 																	<td class="text-center">250</td>
@@ -565,11 +565,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient6.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Elsie Gilley <span>#PT0006</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">mamon <span>#PT0006</span></a>
 																		</h2>
 																	</td>
-																	<td>14 Nov 2019 <span class="d-block text-info">6.00 PM</span></td>
+																	<td>14 Feb 2023 <span class="d-block text-info">6.00 PM</span></td>
 																	<td>Fever</td>
 																	<td>Old Patient</td>
 																	<td class="text-center">300</td>
@@ -591,11 +591,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient7.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Joan Gardner <span>#PT0006</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">Mamon<span>#PT0006</span></a>
 																		</h2>
 																	</td>
-																	<td>14 Nov 2019 <span class="d-block text-info">5.00 PM</span></td>
+																	<td>14 Feb 2023 <span class="d-block text-info">5.00 PM</span></td>
 																	<td>General</td>
 																	<td>Old Patient</td>
 																	<td class="text-center">100</td>
@@ -617,11 +617,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient8.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Daniel Griffing <span>#PT0007</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">mamon <span>#PT0007</span></a>
 																		</h2>
 																	</td>
-																	<td>14 Nov 2019 <span class="d-block text-info">3.00 PM</span></td>
+																	<td>14 Feb 2023 <span class="d-block text-info">3.00 PM</span></td>
 																	<td>General</td>
 																	<td>New Patient</td>
 																	<td class="text-center">75</td>
@@ -643,11 +643,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient9.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Walter Roberson <span>#PT0008</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">mamon<span>#PT0008</span></a>
 																		</h2>
 																	</td>
-																	<td>14 Nov 2019 <span class="d-block text-info">1.00 PM</span></td>
+																	<td>14 Feb 2023 <span class="d-block text-info">1.00 PM</span></td>
 																	<td>General</td>
 																	<td>Old Patient</td>
 																	<td class="text-center">350</td>
@@ -669,11 +669,11 @@
 																<tr>
 																	<td>
 																		<h2 class="table-avatar">
-																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient10.jpg" alt="User Image"></a>
-																			<a href="patient-profile">Robert Rhodes <span>#PT0010</span></a>
+																			<a href="patient-profile" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="assets/img/patients/patient11.jpg" alt="User Image"></a>
+																			<a href="patient-profile">Mamon <span>#PT0010</span></a>
 																		</h2>
 																	</td>
-																	<td>14 Nov 2019 <span class="d-block text-info">10.00 AM</span></td>
+																	<td>14 Feb 2023 <span class="d-block text-info">10.00 AM</span></td>
 																	<td>General</td>
 																	<td>New Patient</td>
 																	<td class="text-center">175</td>
@@ -699,7 +699,7 @@
 																			<a href="patient-profile">Harry Williams <span>#PT0011</span></a>
 																		</h2>
 																	</td>
-																	<td>14 Nov 2019 <span class="d-block text-info">11.00 AM</span></td>
+																	<td>14 Feb 2023 <span class="d-block text-info">11.00 AM</span></td>
 																	<td>General</td>
 																	<td>New Patient</td>
 																	<td class="text-center">450</td>
@@ -900,6 +900,6 @@
 
 </body>
 
-<!-- doccure/doctor-dashboard  30 Nov 2019 04:12:09 GMT -->
+<!-- doccure/doctor-dashboard  30 Feb 2023 04:12:09 GMT -->
 
 </html>
